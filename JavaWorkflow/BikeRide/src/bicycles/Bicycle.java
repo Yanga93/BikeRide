@@ -4,7 +4,7 @@ public class Bicycle {
 
     // Let's create public accelerate method
     public static void accelerateBicycle (int increaseSpeed){
-        increaseSpeed = 5;
+           increaseSpeed = 5;
     }
 
     // Let's crease public brake method
